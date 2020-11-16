@@ -55,7 +55,7 @@ if ENVIRONMENT_IN_USE == "sandbox":
 
     # Values for the Always On IOS XE Sandbox
     IOS_XE_1 = {
-        "host": "10.164.18.104",
+        "host": "10.X.X.X",
         "username": "developer",
         "password": "C1sco12345",
         "netconf_port": 830,
